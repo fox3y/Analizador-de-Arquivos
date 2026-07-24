@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Executar buscador de arquivos",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/py/main.py",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}
